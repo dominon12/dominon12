@@ -1,7 +1,7 @@
 # Maksim S. - Software Engineer
 
 
-👋 Passionate Software Engineer with 3 years of experience in enterprise environments, focused on creating strong and scalable solutions with the latest technologies. I excel in dynamic environments and enjoy solving complex problems to deliver excellent results.
+👋 Passionate Software Engineer with 4+ years of experience in enterprise environments, focused on creating strong and scalable solutions with the latest technologies. I excel in dynamic environments and enjoy solving complex problems to deliver excellent results.
 
 
 ## Tech Spectrum Palette:
